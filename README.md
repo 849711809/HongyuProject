@@ -1,2 +1,0 @@
-# HongyuProject
-My git project 
