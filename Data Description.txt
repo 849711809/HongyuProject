@@ -1,0 +1,4 @@
+http://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction
+http://archive.ics.uci.edu/ml/datasets/BlogFeedback
+http://archive.ics.uci.edu/ml/datasets/Superconductivty+Data
+http://archive.ics.uci.edu/ml/datasets/Condition+Based+Maintenance+of+Naval+Propulsion+Plants
